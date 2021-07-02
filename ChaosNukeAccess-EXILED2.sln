@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaosNukeAccess", "ChaosNukeAccess\ChaosNukeAccess.csproj", "{CD620008-BCF9-479D-A732-025F2BA93863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD620008-BCF9-479D-A732-025F2BA93863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD620008-BCF9-479D-A732-025F2BA93863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD620008-BCF9-479D-A732-025F2BA93863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD620008-BCF9-479D-A732-025F2BA93863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6285BE7D-976A-4549-8284-8CBA6985339B}
+	EndGlobalSection
+EndGlobal
