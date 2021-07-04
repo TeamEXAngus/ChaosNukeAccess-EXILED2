@@ -7,7 +7,7 @@ namespace ChaosNukeAccess
     {
         public static ChaosNukeAccess Instance;
 
-        public override Version Version { get; } = new Version(1, 0, 0);
+        public override Version Version { get; } = new Version(1, 0, 1);
         public override Version RequiredExiledVersion { get; } = new Version(2, 10, 0);
 
         private InteractingDoor interactingDoor;
